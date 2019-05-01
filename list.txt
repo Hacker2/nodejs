@@ -1,0 +1,4 @@
+1. what is node + debug
+2. example server + console param + web param + get + post
+3. npm
+n.express
