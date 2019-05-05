@@ -1,0 +1,37 @@
+Полный курс можно приобрести по ссылке https://www.udemy.com/kurs-java-ee/?couponCode=JAVAEE_COUPON
+Колличество купонов ограничено, если по ссылке цена больше 9.99 значит купоны закончились.
+
+Есть скидки на следующие курсы:
+(Колличество купонов ограничено, если по ссылке цена больше 9.99 значит купоны закончились)
+HTML:
+https://www.udemy.com/html-kurs/?couponCode=HTML_COUPON
+MAVEN:
+https://www.udemy.com/maven-kurs/?couponCode=MAVEN_COUPON
+GIT:
+https://www.udemy.com/git-study/?couponCode=GIT_COUPON
+DOCKER:
+https://www.udemy.com/docker-kurs/?couponCode=DOCKER_COUPON
+MONGODB:
+https://www.udemy.com/mongo-nosql/?couponCode=MONGODB_COUPON
+KOTLIN
+https://www.udemy.com/kotlin-kurs/?couponCode=KOTLIN_COUPON
+APACHE SPARK:
+https://www.udemy.com/spark-kurs/?couponCode=SPARK_COUPON
+GWT
+https://www.udemy.com/gwt-kurs/?couponCode=GWT_COUPON
+SQL:
+https://www.udemy.com/sql-kurs/?couponCode=SQL_COUPON
+MYSQL:
+https://www.udemy.com/mysql-kurs/?couponCode=MYSQL_COUPON
+IDEA
+https://www.udemy.com/intellij-idea/?couponCode=IDEA_COUPON
+Многопоточность:
+https://www.udemy.com/java-thread/?couponCode=MULTITHREADING
+Регулярные выражения:
+https://www.udemy.com/reg-expr/?couponCode=REGEX_COUPON
+Паттерны:
+https://www.udemy.com/patterns/?couponCode=PATTERNS_COUPON
+Как правильно писать код:
+https://www.udemy.com/java-best-practice/?couponCode=BEST_PRACTICE
+Java EE:
+https://www.udemy.com/kurs-java-ee/?couponCode=JAVAEE_COUPON
