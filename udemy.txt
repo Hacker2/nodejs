@@ -4,9 +4,9 @@
 Есть скидки на следующие курсы:
 (Колличество купонов ограничено, если по ссылке цена больше 9.99 и 14.99(jpa,hibernate) значит купоны закончились)
 HIBERNATE:
-https://www.udemy.com/draft/2223894/?couponCode=HIBERNATE_COUPON
+https://www.udemy.com/hibernate-kurs/?couponCode=HIBERNATE_COUPON
 JPA:
-https://www.udemy.com/draft/2224506/?couponCode=JPA_COUPON
+https://www.udemy.com/jpa-kurs/?couponCode=JPA_COUPON
 HTML:
 https://www.udemy.com/html-kurs/?couponCode=HTML_COUPON
 MAVEN:
